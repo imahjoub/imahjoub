@@ -1,4 +1,4 @@
-### <ins> My Github Info:</ins>
+### <ins> My GitHub Info:</ins>
 
 <table>
   <tr>
