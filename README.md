@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### <ins> My Github Info:</ins>
 
 <table>
