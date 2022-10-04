@@ -1,4 +1,22 @@
-### <ins> My GitHub Info:</ins>
+#### Hi there 👋
+
+<!--
+
+
+
+Here are some ideas to get you started:
+- 🔭 I’m currently working on (TBD)
+- 🌱 I’m currently learning (TBD)
+- 👯 I’m looking to collaborate on (TBD)
+- 🤔 I’m looking for help with (TBD)
+- 💬 Ask me about (TBD)
+- 📫 How to reach me: (TBD)
+- 😄 Pronouns: (TBD)
+- ⚡ Fun fact: (TBD)
+-->
+
+#### <ins> My GitHub Info:</ins>
+
 
 <table>
   <tr>
@@ -14,7 +32,7 @@
 
 <img src="images/line.gif">
 
-### <img align = center src="images/stats.gif" width="25px" height="25px"> <ins>Github Stats:</ins>
+#### <img align = center src="images/stats.gif" width="25px" height="25px"> <ins>Github Stats:</ins>
 
 <p align = "left">
   <a href = "https://github.com/imahjoub">
