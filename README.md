@@ -1,7 +1,7 @@
 #### Hi there 👋
 
 <!--
-
+Embedded software developer with expertise in various areas, collaborating globally on fundamental software projects, following Automotive SPICE standards. Proficient in low-level software, unit testing, automating tasks, and creating efficient build systems. Skilled in cryptographic encryption and dedicated to delivering clean, secure, and portable code with comprehensive test coverage. Excited to grow in the field of embedded systems.
 
 
 Here are some ideas to get you started:
