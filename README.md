@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-Hello! I'm an embedded system developer currently learning bare-metal programming. I have experience in cryptographic encryption, digital signing, and creating efficient build systems. Additionally, I am proficient in automating tasks, parsing information and continuous integration.
+I'm an embedded system developer currently learning bare-metal programming. I have experience in cryptographic encryption, digital signing, and creating efficient build systems. Additionally, I am proficient in automating tasks, parsing information and continuous integration.
 
 #### <ins> My GitHub Info:</ins>
 
@@ -28,5 +28,5 @@ Hello! I'm an embedded system developer currently learning bare-metal programmin
 </p>
 
 
-## Let's Connect!
+#### Let's Connect!
 I'm always excited to collaborate and learn from others. If you find my work interesting, don't hesitate to reach out!
