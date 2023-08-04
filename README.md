@@ -27,6 +27,12 @@ I'm an embedded system developer currently learning bare-metal programming. I ha
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 
 #### Let's Connect!
 I'm always excited to collaborate and learn from others. If you find my work interesting, don't hesitate to reach out!
