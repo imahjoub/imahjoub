@@ -2,34 +2,16 @@
 
 I'm an embedded system developer currently learning bare-metal programming. I have experience in cryptographic encryption, digital signing, and creating efficient build systems. Additionally, I am proficient in automating tasks, parsing information and continuous integration.
 
+
 #### <ins> My GitHub Info:</ins>
-
-<table>
-  <tr>
-    <td>
-      <p align = "center">
-        <a href = "https://github.com/imahjoub">
-          <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imahjoub&theme=radical"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<img src="images/line.gif">
+<h1 align="center"></h1>
+<img align="left" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=imahjoub&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="right" height="200px" width="550px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imahjoub&theme=radical" />
+<img height="150" />
+<br><br>
 
 
-#### <img align = center src="images/stats.gif" width="25px" height="25px"> <ins>Github Stats:</ins>
-
-<p align = "left">
-  <a href = "https://github.com/imahjoub">
-    <img align = center src = "https://cybernethacker14-github-readme-stats.vercel.app/api?username=imahjoub&show_icons=true&include_all_commit=true&count_private=true&theme=radical&hide_border=true"/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-#### My contributions
-	
+#### <ins> My contributions:</ins>	
 <p align = "center">
 	<img src = "https://github.com/imahjoub/imahjoub/blob/main/github-user-contribution.svg?" alt = "Snake Game"/>
 </p>
