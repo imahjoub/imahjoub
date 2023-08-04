@@ -4,7 +4,6 @@ I'm an embedded system developer currently learning bare-metal programming. I ha
 
 #### <ins> My GitHub Info:</ins>
 
-
 <table>
   <tr>
     <td>
@@ -19,6 +18,7 @@ I'm an embedded system developer currently learning bare-metal programming. I ha
 
 <img src="images/line.gif">
 
+
 #### <img align = center src="images/stats.gif" width="25px" height="25px"> <ins>Github Stats:</ins>
 
 <p align = "left">
@@ -27,10 +27,11 @@ I'm an embedded system developer currently learning bare-metal programming. I ha
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## 🐍 A Snake Eating my Contributions Graph
+
+#### My contributions
 	
 <p align = "center">
-	<img src = "https://github.com/imahjoub/imahjoub/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/imahjoub/imahjoub/blob/main/github-user-contribution.svg?" alt = "Snake Game"/>
 </p>
 
 
