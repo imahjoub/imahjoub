@@ -1,19 +1,5 @@
 #### Hi there 👋
 
-<!--
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on (TBD)
-- 🌱 I’m currently learning (TBD)
-- 👯 I’m looking to collaborate on (TBD)
-- 🤔 I’m looking for help with (TBD)
-- 💬 Ask me about (TBD)
-- 📫 How to reach me: (TBD)
-- 😄 Pronouns: (TBD)
-- ⚡ Fun fact: (TBD)
--->
-
-
 Hello! I'm an embedded system developer currently learning bare-metal programming. I have experience in cryptographic encryption, digital signing, and creating efficient build systems. Additionally, I am proficient in automating tasks, parsing information and continuous integration.
 
 #### <ins> My GitHub Info:</ins>
@@ -40,3 +26,7 @@ Hello! I'm an embedded system developer currently learning bare-metal programmin
     <img align = center src = "https://cybernethacker14-github-readme-stats.vercel.app/api?username=imahjoub&show_icons=true&include_all_commit=true&count_private=true&theme=radical&hide_border=true"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+
+## Let's Connect!
+I'm always excited to collaborate and learn from others. If you find my work interesting, don't hesitate to reach out!
