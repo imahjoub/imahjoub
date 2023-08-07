@@ -2,6 +2,9 @@
 
 I'm an embedded system developer currently learning bare-metal programming. I have experience in cryptographic encryption, digital signing, and creating efficient build systems. Additionally, I am proficient in automating tasks, parsing information and continuous integration.
 
+#### Let's Connect!
+I'm always excited to collaborate and learn from others. If you find my work interesting, don't hesitate to reach out!
+
 <!-- 
 #### <ins> My GitHub Info:</ins>
 
@@ -16,7 +19,4 @@ I'm an embedded system developer currently learning bare-metal programming. I ha
 	<img src = "https://github.com/imahjoub/imahjoub/blob/main/github-user-contribution.svg?" alt = "Snake Game"/>
 </p>
 
-
-#### Let's Connect!
-I'm always excited to collaborate and learn from others. If you find my work interesting, don't hesitate to reach out!
 --> 
