@@ -3,7 +3,7 @@
 I'm an embedded system developer currently learning bare-metal programming. I have experience in cryptographic encryption, digital signing, and creating efficient build systems. Additionally, I am proficient in automating tasks, parsing information and continuous integration.
 
 #### Let's Connect!
-I'm always excited to collaborate and learn from others. If you find my work interesting, don't hesitate to reach out!
+I'm always excited to collaborate and learn from others. If you find my work interesting, don't hesitate to reach out! [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/imahjoub)
 
 <!-- 
 #### <ins> My GitHub Info:</ins>
